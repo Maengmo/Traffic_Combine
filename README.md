@@ -3,7 +3,7 @@
 <img width="710" alt="메인화면" src="https://github.com/Maengmo/Traffic_Combine/assets/117720344/5d3339a4-2689-478f-8be4-54726581b61c">
 
 
-<br>
+<br> 
 
 ## ⁉ 프로그램 소개
   <p>"Traffic Combine"은 교통 수단에 따른 대중교통의 이용을 하나의 서비스 내에서 처리가 가능 하도록 서비스와 정보를 제공합니다.</p>
